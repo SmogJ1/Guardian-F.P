@@ -1,7 +1,7 @@
 # Projeto de FP
 ## FPRO/MIEIC, 2021/22
 ## João Carlos Tomé Longras (up202108780)
-## 1MIEICX08
+## 1LEICX08
 
 ### Objetivo
 
@@ -9,7 +9,7 @@ Recriar o Guardian do atari 2600
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@author/xxx
+1) Link para o repositório do GitHub: https://github.com/SmogJ1/Guardian-F.P
 
 2) Adicionar, como colaborador com permissão de leitura (*role read*):
 
