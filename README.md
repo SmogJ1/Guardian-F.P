@@ -1,13 +1,11 @@
 # Projeto XXXX
 ## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1MIEICXX
+## João Carlos Tomé Longras (up202108780)
+## 1MIEICX08
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
-
-2. Em alternativa... do clássico x em Pygame.
+Recriar o Guardian do atari 2600
 
 ### Repositório de código
 
@@ -40,7 +38,7 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 
 ### Tarefas
 
-1. carregar os níveis
+1. ...
 1. desenhar a matriz do nível
 1. ler teclas e mover as peças
 2. verificar se jogador chegou ao fim do nível
