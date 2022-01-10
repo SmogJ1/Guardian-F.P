@@ -11,23 +11,12 @@ Recriar o Guardian do atari 2600
 
 1) Link para o repositório do GitHub: https://github.com/SmogJ1/Guardian-F.P
 
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
 
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
-
+*--Guardin é um jogo se score, cujo objetivo é destruir as naves lançadas pela "nave mãe".
+Temos de proteger a linha amarela, onde aparece os planetas, caso esse linha seja destruída e um tiro atinja  
 ### UI
 
 ![UI](ui.png)
@@ -38,9 +27,8 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 
 ### Tarefas
 
-1. ...
-1. desenhar a matriz do nível
-1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+1. adicionar naves mais pequenas;
+2. Terminar a estruturação do score;
+3. adicionar colisão
 
-- Atualizado a última vez em 07/12/2021
+- Atualizado a última vez em 10/01/2021
